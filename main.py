@@ -4,7 +4,7 @@ from src.auditor import generate_summary
 from tabulate import tabulate
 
 def run_dashboard():
-    target_file = "imports/mock_statement.csv"
+    target_file = "/Users/isabelnorton/Desktop/Github/Finance-Tracker/Imports/mock_statement.csv"
     
     print("=" * 50)
     print(" BUDGETGAZE: PERSONAL FINANCE AUDITOR ")
